@@ -70,11 +70,12 @@ Desenvolvo soluções que priorizam **robustez técnica**, **clareza visual** e 
 
 Projetos voltados a **Creative Development**, **UI Engineering** e **experiências imersivas**:
 
-### 🍎 AirPods Max Immersive
+### 🍎 AirPods Max Immersive 
 Interface inspirada no ecossistema Apple, com scroll cinematográfico e controle avançado de timelines em GSAP.
 
-### 🎿 Atomic Experience
-Showcase de produto com efeitos de *exploded view*, parallax avançado e filtros dinâmicos via scroll.
+### TopStyle
+Projeto Integrador do curso Tec. Desenvolvimento de sistemas.
+
 
 ### 🏔️ Everest Parallax
 Landing page com múltiplas camadas de profundidade e animações sincronizadas, focada em narrativa visual.
