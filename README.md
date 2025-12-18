@@ -73,7 +73,7 @@ Projetos voltados a **Creative Development**, **UI Engineering** e **experiênci
 ### 🍎 AirPods Max Immersive 
 Interface inspirada no ecossistema Apple, com scroll cinematográfico e controle avançado de timelines em GSAP.
 
-### TopStyle
+### 🖥 TopStyle
 Projeto Integrador do curso Tec. Desenvolvimento de sistemas.
 
 
