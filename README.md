@@ -84,34 +84,17 @@ Landing page com múltiplas camadas de profundidade e animações sincronizadas,
 
 ---
 
-## 📊 Panorama Técnico
+## 🎯 Direcionamento Profissional
 
-<div align="center">
+Atualmente concentro meus estudos e projetos em:
 
-<img src="https://skillicons.dev/icons?i=java,mysql,js,css,figma,git&theme=dark" />
+- Desenvolvimento Front-end avançado com foco em UI Engineering
+- Integração eficiente entre lógica de sistemas e interfaces
+- Creative Coding aplicado a produtos reais
+- Evolução contínua em Java e modelagem de dados
 
-<br><br>
+Busco oportunidades onde **qualidade técnica e experiência visual** caminham juntas.
 
-<table>
-  <tr>
-    <td align="center"><strong>Back-end</strong></td>
-    <td>Java · SQL · MySQL · Lógica de Sistemas</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Front-end</strong></td>
-    <td>JavaScript · CSS Avançado · GSAP · UI Engineering</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Design</strong></td>
-    <td>Figma · Design Systems · Prototipação</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Workflow</strong></td>
-    <td>Git · VS Code · Eclipse · Versionamento</td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
