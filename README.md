@@ -84,16 +84,35 @@ Landing page com **múltiplas camadas de profundidade**, animações sincronizad
 
 ---
 
-## 📊 Métricas de Desenvolvimento
+## 📊 Panorama Técnico
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=Bryan-Nobre&show_icons=true&theme=tokyonight&count_private=true
+<img src="https://skillicons.dev/icons?i=java,mysql,js,css,figma,git&theme=dark" />
 
+<br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Nobre&layout=compact&langs_count=8&theme=tokyonight"/>
+<table>
+  <tr>
+    <td align="center"><strong>Back-end</strong></td>
+    <td>Java · SQL · MySQL · Lógica de Sistemas</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Front-end</strong></td>
+    <td>JavaScript · CSS Avançado · GSAP · UI Engineering</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Design</strong></td>
+    <td>Figma · Design Systems · Prototipação</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Workflow</strong></td>
+    <td>Git · VS Code · Eclipse · Versionamento</td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
