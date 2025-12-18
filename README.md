@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=200&section=header&text=Bryan%20Henrique&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Creative+Developer;Java+%7C+SQL+Specialist;UI%2FUX+%26+Creative+Coding;Performance+Driven+Interfaces" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Creative+Developer;Java+%7C+SQL+Specialist;UI%2FUX+%26+Creative+Coding;Performance-Driven+Interfaces" />
 
 <br/>
 
@@ -15,15 +15,15 @@
 
 ## 🧭 Visão Profissional
 
-Sou **Técnico em Desenvolvimento de Sistemas**, com atuação estratégica na interseção entre **engenharia de software**, **experiência do usuário** e **interfaces animadas de alta performance**.
+Sou **Técnico em Desenvolvimento de Sistemas**, com atuação focada na convergência entre **engenharia de software**, **experiência do usuário** e **interfaces animadas de alta performance**.
 
-Minha proposta é clara: **construir sistemas robustos, escaláveis e visualmente memoráveis**, unindo lógica sólida de back-end com interfaces que comunicam valor, movimento e identidade.
+Desenvolvo soluções que priorizam **robustez técnica**, **clareza visual** e **experiência consistente**, conectando back-end sólido a interfaces que comunicam valor e identidade.
 
-Atuo com foco em:
-- **Precisão técnica**
-- **Design orientado à experiência**
-- **Animações com propósito**
-- **Entrega profissional**
+**Princípios de atuação:**
+- Precisão técnica e organização
+- Design orientado à experiência
+- Animações com propósito funcional
+- Entrega profissional e escalável
 
 ---
 
@@ -31,12 +31,12 @@ Atuo com foco em:
 
 🎓 **Curso Técnico em Desenvolvimento de Sistemas**
 
-**Competências-chave:**
-- 🚀 Arquitetura de sistemas em **Java**
-- 🧠 Modelagem e manipulação de dados com **SQL / MySQL**
-- 🎨 Design de interfaces e prototipação avançada no **Figma**
-- 🎥 Animações e microinterações com **GSAP**
-- ⚙️ Desenvolvimento front-end com foco em performance e fluidez
+**Áreas de domínio:**
+- Arquitetura de sistemas em **Java**
+- Modelagem e manipulação de dados com **SQL / MySQL**
+- UI Design e prototipação no **Figma**
+- Animações e microinterações com **GSAP**
+- Front-end com foco em **performance e fluidez**
 
 ---
 
@@ -68,19 +68,19 @@ Atuo com foco em:
 
 ## 🚀 Projetos em Destaque
 
-Projetos focados em **Creative Development**, **UI Engineering** e **experiências imersivas**:
+Projetos voltados a **Creative Development**, **UI Engineering** e **experiências imersivas**:
 
 ### 🍎 AirPods Max Immersive
-Interface inspirada no ecossistema Apple, com **scroll cinematográfico**, **timelines avançadas em GSAP** e controle refinado de transições.
+Interface inspirada no ecossistema Apple, com scroll cinematográfico e controle avançado de timelines em GSAP.
 
 ### 🎿 Atomic Experience
-Showcase de produto com efeitos de **exploded view**, **parallax avançado** e filtros visuais ativados por scroll.
+Showcase de produto com efeitos de *exploded view*, parallax avançado e filtros dinâmicos via scroll.
 
 ### 🏔️ Everest Parallax
-Landing page com **múltiplas camadas de profundidade**, animações sincronizadas e foco em narrativa visual.
+Landing page com múltiplas camadas de profundidade e animações sincronizadas, focada em narrativa visual.
 
-> ⚠️ **Nota Técnica:**  
-> Projetos de animação avançada priorizam **Desktop Experience**, visando máxima fluidez, precisão e impacto visual.
+> **Nota técnica:**  
+> Os projetos priorizam **Desktop Experience**, visando máxima precisão, fluidez e impacto visual.
 
 ---
 
@@ -112,7 +112,6 @@ Landing page com **múltiplas camadas de profundidade**, animações sincronizad
 </table>
 
 </div>
-
 
 ---
 
