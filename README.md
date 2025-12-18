@@ -7,8 +7,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Bryan-Nobre&color=2563eb&style=for-the-badge" />
-
 </div>
 
 ---
