@@ -1,89 +1,68 @@
-# Olá, eu sou Bryan Henrique!
-
-### Desenvolvedor Full Stack | Desenvolvimento de Sistemas
-
-Sou desenvolvedor com formação técnica em Desenvolvimento de Sistemas, interessado em tecnologia, arquitetura de software e construção de aplicações completas.
-
-Tenho experiência prática no desenvolvimento de sistemas de gestão, plataformas SaaS, integrações e soluções voltadas a necessidades reais de negócio.
-
-Gosto de participar de todo o processo de desenvolvimento, desde a estruturação da aplicação até a implementação do frontend, backend e banco de dados.
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=200&section=header&text=Bryan%20Henrique&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Full+Stack+Developer;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Supabase+%7C+PostgreSQL;Building+Real-World+Applications" />
+</div>
 
 ---
 
-## Tecnologias
+## 👨‍💻 Sobre Mim
 
-**Linguagens e Desenvolvimento**
+Sou **Técnico em Desenvolvimento de Sistemas**, com foco no desenvolvimento Full Stack e na construção de aplicações web completas.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
-</p>
+Tenho experiência prática no desenvolvimento de plataformas SaaS, sistemas de gestão e soluções voltadas a necessidades reais de negócio, trabalhando com interfaces, lógica de aplicação, bancos de dados e integração de serviços.
 
-**Frontend**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
-**Backend e Banco de Dados**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres" />
-</p>
-
-**Ferramentas**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+Busco evoluir constantemente em **arquitetura de software, desenvolvimento web e engenharia de sistemas**, transformando ideias em soluções funcionais e escaláveis.
 
 ---
 
-## Projetos em Destaque
+## 🛠️ Stack Técnica & Ferramentas
 
-### BeautyFlow SaaS
-
-Plataforma SaaS multi-tenant para gestão de negócios de beleza, com agenda inteligente, controle financeiro, estoque, gestão de equipes e isolamento de dados por empresa.
-
-**Tecnologias:** React, TypeScript, PostgreSQL e Supabase.
-
-[Ver repositório](https://github.com/Bryan-Nobre/beautyflow-saas)
-
----
-
-### AtomTech Indicações
-
-Plataforma para gestão de indicações comerciais e comissões, com dashboards, controle de oportunidades, calculadoras solares e painel administrativo.
-
-**Tecnologias:** React, TypeScript, TanStack e Supabase.
-
-[Ver repositório](https://github.com/Bryan-Nobre/atomtech-indicacoes)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> |
+| **Frontend & UI** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> |
+| **Backend & Dados** | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/> |
+| **Workflow** | <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
 
 ---
 
-### Strategos
+## 🚀 Projetos em Destaque
 
-Plataforma SaaS multi-tenant para gestão estratégica de campanhas, com relacionamento com apoiadores, inteligência territorial, permissões granulares e recursos de privacidade alinhados à LGPD.
+### 💈 BeautyFlow SaaS
 
-**Tecnologias:** React, TypeScript, PostgreSQL e Supabase.
+Plataforma SaaS multi-tenant para gestão de negócios de beleza, com agenda inteligente, controle financeiro, estoque, gestão de equipes e ambientes independentes por empresa.
 
-[Ver repositório](https://github.com/Bryan-Nobre/strategos-saas)
+
+[![Repositório](https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github)](https://github.com/Bryan-Nobre/beautyflow-saas)
+
+### ☀️ AtomTech Indicações
+
+Plataforma de gestão de indicações comerciais e comissões, com dashboards, acompanhamento de oportunidades, painel administrativo e calculadoras para sistemas de energia solar.
+
+
+[![Repositório](https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github)](https://github.com/Bryan-Nobre/atomtech-indicacoes)
+
+### 🎯 Strategos
+
+Plataforma SaaS multi-tenant para gestão estratégica de campanhas, com relacionamento com apoiadores, inteligência territorial, gestão de equipes, permissões granulares e recursos alinhados à LGPD.
+
+**Tecnologias:** React, TypeScript, Supabase e PostgreSQL.
+
+[![Repositório](https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github)](https://github.com/Bryan-Nobre/strategos-saas)
 
 ---
 
-## Estatísticas do GitHub
+## 🤝 Contato
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bryan-Nobre&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Nobre&layout=compact&theme=github_dark&hide_border=true&hide=html,css,markdown" />
-</p>
-
----
-
-## Contato
-
-<p align="left">
-  <a href="https://github.com/Bryan-Nobre">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <a href="https://www.linkedin.com/in/bryan-henrique-7a5359377" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mrbhron@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=20&section=footer&animation=fadeIn"/>
+</div>
