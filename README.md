@@ -68,6 +68,11 @@ Sistema de gestão de indicações comerciais, acompanhamento de oportunidades, 
 
 [Ver projeto](https://github.com/Bryan-Nobre/atomtech-leads)
 
+### Luma Generation
+Plataforma de recarga para veículos elétricos — app do motorista, painel da operadora e integração com carregadores via OCPP 1.6.
+
+[Ver projeto](https://github.com/Bryan-Nobre/Luma-Generation)
+
 ---
 
 ## 🤝 Contato
