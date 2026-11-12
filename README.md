@@ -56,22 +56,17 @@ Sou **Técnico em Desenvolvimento de Sistemas**, com interesse em tecnologia e d
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 💈 BeautyFlow SaaS
-Plataforma de gestão para negócios de beleza, com agendamento inteligente, controle financeiro, estoque e arquitetura multi-tenant.
+### Arvon Food
+SaaS multi-tenant de gestão operacional para restaurantes — PDV, mesas e comandas, cozinha (KDS), caixa, estoque e administração da plataforma.
 
-[Ver projeto](LINK_DO_REPOSITORIO)
+[Ver projeto](https://github.com/Bryan-Nobre/Arvon-Food)
 
-### ☀️ AtomTech Indicações
+### AtomTech Indicações
 Sistema de gestão de indicações comerciais, acompanhamento de oportunidades, comissões e calculadoras para energia solar.
 
-[Ver projeto](LINK_DO_REPOSITORIO)
-
-### 🎯 Strategos
-Plataforma de gestão estratégica de campanhas, com relacionamento com apoiadores, inteligência territorial, gestão de equipes e recursos de privacidade alinhados à LGPD.
-
-[Ver projeto](LINK_DO_REPOSITORIO)
+[Ver projeto](https://github.com/Bryan-Nobre/atomtech-leads)
 
 ---
 
